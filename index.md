@@ -2,7 +2,14 @@
 Sr. Full Stack Architect (Cloud/Data/UI)
 Goa, India | +91-987-3838-958 | saurabh.sh@pm.me
 
+
+## OBJECTIVE
+Seeking a challenging role to leverage my extensive experience in web development, data engineering, and cloud management. My goal is to utilize my skills in architecting technical solutions, application analysis, and client interaction to contribute to high traffic, scalable systems. I am particularly interested in positions that allow for the exploration of Big Data based solutions. I am committed to professionalism that lasts and building lasting relationships.
+
+
 ## PROFILE
+- Highly skilled and experienced data engineer with a strong background in building scalable data pipelines, ETL processes, and data analytics platforms.
+- Proficient in interacting with various APIs and using advanced data tools.
 - A seasoned Full Stack Architect with over 15 years of experience in the software industry.
 - Specializing in Web Development, Cloud/Data Engineering, and UI technologies.
 - Proficient in Node.JS, Java, Python, and various JavaScript technologies including Polymer, React.JS, React-Native, Expo, Angular, and Vanilla JavaScript.
@@ -13,27 +20,30 @@ Goa, India | +91-987-3838-958 | saurabh.sh@pm.me
 - Experienced in working with clients across the globe and keen on working on high traffic, scalable systems.
 - Believe in lasting professionalism and relationships.
 
-## OBJECTIVE
-Seeking a challenging role to leverage my extensive experience in web development, data engineering, and cloud management. My goal is to utilize my skills in architecting technical solutions, application analysis, and client interaction to contribute to high traffic, scalable systems. I am particularly interested in positions that allow for the exploration of Big Data based solutions. I am committed to professionalism that lasts and building lasting relationships.
-
-## SKILLS
-
+## Skills
 - **Front End:** CSS3, Bootstrap, HTML5, JavaScript, React.js, Angular.js (1 and 6), Polymer.js, Riot.js
 - **Back End:** Java, J2EE, Python, JavaScript, Node.js, Express, AWS Lambdas, API Gateway, Spring, Hibernate
 - **Data Stores:** MySQL, Oracle, PostgreSQL, MongoDB, Redis, Firebase, GraphQL
-- **Data Engineering:** Airflow, Airbyte, ELT/ETL tools, Metabase/Superset, DBT, Benthos
+- **Data Engineering:** ELT/ETL tools, Metabase/Superset, DBT, Benthos, Apache Airflow, Meltano, Singer, and Apache Airbyte
+- **Data Pipelines**: Experienced in building data extraction pipelines on both stream and batch basis with various 3rd party pipelines.
+- **Data Visualization**: Proficient in data visualization and business intelligence tools like Apache Superset, Tableau, and Metabase.
 - **Web Servers:** Apache Tomcat, Apache HTTP Server, Nginx, Google Cloud, AWS EC2 & Lambdas, Heroku
 - **Operating Systems:** Linux Red Hat, Ubuntu, Mac OC, Windows 10
 
 ## EXPERIENCE
 ### Principal Platform Architect (UI & Data), Amplicomm
-##### Pune, India | 2022 – Present
+##### Pune, India | 2022 – 2024
 
 Amplicomm is a tech startup which focuses at building E-Commerce & SCM specific solutions. The key product being the "Platform" which has the capability of generating different commerce specific tech offerings like Marketplace, Analytics, OMS, Logistics solutions in a rapid fashion. It is all about building configuration driven solutions built in a faster format.
 - Led the core architecture of the UI/UX layer for the platform built solutions. The UI layer was based on an open-source project of mine from earlier which is hosted on github at "rn-composable-ui".
 - Architected the integration layer for consolidating data from different marketplaces and transformation of the same.
+- Developed robust data pipelines for extracting, transforming, and loading data from various sources.
+- Integrated multiple APIs to fetch data and automated the process using Apache Airflow.
+- Utilized dbt for transforming data in the warehouse.
 - Customized the open source “Apache superset” tool for then visualizing the same data in different analytical dashboards, as asked for by the business.
-- Technologies: Node.js, React, React Native, Python, Flask, Docker, Postgres, AWS, GCP, Superset, Metabase, dbt, airbyte
+- Handled the dev and sstaging environmnts releateed devops with github actions, jenkins, docker, docker-compose and build a stable CI/CD workflow using AWS EC2 and VPC (as needed)  
+- Technologies: Node.js, React, React Native, Python, Flask, Docker, Postgres, AWS, GCP, Superset, Metabase, dbt, airbyte, AWS, DevOps
+
 
 ### Sr Application Architect, IBM
 ##### Bengaluru, India | 2019 – 2020
