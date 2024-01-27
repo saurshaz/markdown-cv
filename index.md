@@ -8,7 +8,7 @@ Seeking a challenging role to leverage my extensive experience in web developmen
 
 
 ## PROFILE
-- Highly skilled and experienced data engineer with a strong background in building scalable data pipelines, ETL processes, and data analytics platforms.
+- Highly skilled and experienced data engineer with a strong background in building scalable data pipelines, ETL/ELT processes, data analytics and data visualization platforms.
 - Proficient in interacting with various APIs and using advanced data tools.
 - A seasoned Full Stack Architect with over 15 years of experience in the software industry.
 - Specializing in Web Development, Cloud/Data Engineering, and UI technologies.
@@ -24,7 +24,7 @@ Seeking a challenging role to leverage my extensive experience in web developmen
 - **Front End:** CSS3, Bootstrap, HTML5, JavaScript, React.js, Angular.js (1 and 6), Polymer.js, Riot.js
 - **Back End:** Java, J2EE, Python, JavaScript, Node.js, Express, AWS Lambdas, API Gateway, Spring, Hibernate
 - **Data Stores:** MySQL, Oracle, PostgreSQL, MongoDB, Redis, Firebase, GraphQL
-- **Data Engineering:** ELT/ETL tools, Metabase/Superset, DBT, Benthos, Apache Airflow, Meltano, Singer, and Apache Airbyte
+- **Data Engineering:** ELT/ETL tools, Metabase/Superset, DBT, Benthos, Apache Airflow, Meltano, Dagster, and Airbyte
 - **Data Pipelines**: Experienced in building data extraction pipelines on both stream and batch basis with various 3rd party pipelines.
 - **Data Visualization**: Proficient in data visualization and business intelligence tools like Apache Superset, Tableau, and Metabase.
 - **Web Servers:** Apache Tomcat, Apache HTTP Server, Nginx, Google Cloud, AWS EC2 & Lambdas, Heroku
