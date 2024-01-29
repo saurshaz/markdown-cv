@@ -1,6 +1,6 @@
 # Saurabh Sharma
 Sr. Full Stack Architect (Cloud/Data/UI)
-Goa, India | +91-987-3838-958 | saurabh.sh@pm.me
+Goa, India | +91-987-3838-958 | [saurabh.sh@pm.me](mailto:saurabh.sh@pm.me) | [LinkedIn](https://www.linkedin.com/in/saurshaz)| [Github](https://www.github.com/saurshaz)
 
 
 ## OBJECTIVE
@@ -99,3 +99,4 @@ Successfully completed the program in regular duration from the prestigious Delh
 ##### New Delhi, India | 2001 – 2004
 
 Achieved an impressive score of 80% across 8 semesters.
+
