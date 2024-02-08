@@ -1,13 +1,13 @@
 +-----------------------------------+-----------------------------------+
-| > **Saurabh Sharma**\             | > ![](vertopal_0ba8dd82d2b5       |
-| > **Sr. Full Stack Architect      | 45a8a1b5c71c295064d2/media/image1 |
-| > (Cloud/Data/UI)                 | .png){width="1.551388888888889in" |
-| > +91-987-3838-958 \|             | > height="1.5513877952755906in"}  |
-| > saurabh.sh@proton.me \| Goa,    |                                   |
-| > India**                         |                                   |
-| >                                 |                                   |
-| > **LinkedIn:**\                  |                                   |
-| > **Github:**                     |                                   |
+| > **Saurabh Sharma**\             | > ![](                              |
+| > **Sr. Full Stack Architect      | T66JGN44V-U8XRDRG3T-c7f436a0214d-192|
+| > (Cloud/Data/UI)                 | .png{width="1.551388888888889in"    |
+| > +91-987-3838-958 \|             | > height="1.5513877952755906in"}    |
+| > saurabh.sh@proton.me \| Goa,    |                                     |
+| > India**                         |                                     |
+| >                                 |                                     |
+| > **LinkedIn:**\                  |                                     |
+| > **Github:**                     |                                     |
 +===================================+===================================+
 +-----------------------------------+-----------------------------------+
 
