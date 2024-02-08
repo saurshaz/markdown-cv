@@ -1,30 +1,17 @@
-+-----------------------------------+-----------------------------------+
-| > **Saurabh Sharma**\             | > ![](                              |
-| > **Sr. Full Stack Architect      | T66JGN44V-U8XRDRG3T-c7f436a0214d-192|
-| > (Cloud/Data/UI)                 | .png{width="1.551388888888889in"    |
-| > +91-987-3838-958 \|             | > height="1.5513877952755906in"}    |
-| > saurabh.sh@proton.me \| Goa,    |                                     |
-| > India**                         |                                     |
-| >                                 |                                     |
-| > **LinkedIn:**\                  |                                     |
-| > **Github:**                     |                                     |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
-
+*Saurabh Sharma*           
+*Sr. Full Stack Architect(Cloud/Data/UI)*
++91-987-3838-958      
+saurabh.sh@proton.me, Goa, India                                          
+ **LinkedIn:**    https://linkedin.com/in/saurshaz              
+ **Github:**      https://github.com/saurshaz 
+ 
 > **PROFESSIONAL SUMMARY**
 >
 > A seasoned tech professional with 16+ years of experience, whose
-> technical expertise and understanding of various industry
+> technical expertise and understanding of various industry solutions and design principles could be utilized in building highly
+> scalable software solutions with ideal architecture. I\'m seeking a challenging role to leverage the extensive experience in the domains of web/mobile apps development, data  engineering, and cloud management.
 >
-> solutions and design principles could be utilized in building highly
-> scalable software solutions with ideal architecture. I\'m
->
-> seeking a challenging role to leverage the extensive experience in the
-> domains of web/mobile apps development, data
->
-> engineering, and cloud management.
->
-> **Specialize in**\
+> **Specialize in**
 > - Architecting technical solutions\
 > - Application analysis, research & development\
 > - Requirements Gathering, Client interaction\
@@ -107,19 +94,19 @@
 
 +-----------------------------------+-----------------------------------+
 | > **Principal Platform Architect  | > **2022 -- 2024**\               |
-| > (UI & Data) \|** \| **Pune,     | > **2019 -- 2020**\               |
+| > (UI & Data) **  **Pune,     | > **2019 -- 2020**\               |
 | > India**\                        | > **2013 -- 2019**\               |
-| > **Sr Application Architect \|   | > **2009 -- 2013**\               |
-| > \| Bengaluru, India**\          | > **2008 -- 2009**\               |
-| > **CTO & Co-Founder \| \|        | > **2007 -- 2008**\               |
+| > **Sr Application Architect    | > **2009 -- 2013**\               |
+| >  Bengaluru, India**\          | > **2008 -- 2009**\               |
+| > **CTO & Co-Founder          | > **2007 -- 2008**\               |
 | > Panaji, Goa, India**\           | > **2006--2007**                  |
 | > **Sr. Developer and Tech Lead   |                                   |
-| > \| (Global Markets & Nitro) \|  |                                   |
+| >  (Global Markets & Nitro)   |                                   |
 | > Gurgaon, India Sr. Software     |                                   |
-| > Engineer \| \| Noida, India     |                                   |
-| > Systems Engineer \| \| Gurgaon, |                                   |
+| > Engineer   Noida, India     |                                   |
+| > Systems Engineer   Gurgaon, |                                   |
 | > India**\                        |                                   |
-| > Java **Engineer \| \| New       |                                   |
+| > Java **Engineer   New       |                                   |
 | > Delhi, India**                  |                                   |
 +===================================+===================================+
 +-----------------------------------+-----------------------------------+
@@ -129,11 +116,11 @@
 > ![](vertopal_0ba8dd82d2b545a8a1b5c71c295064d2/media/image2.png){width="6.509722222222222in"
 > height="3.0555555555555555e-2in"}
 >
-> **Bachelors in Commerce** \| Delhi University \| New Delhi, India\
+> **Bachelors in Commerce**  Delhi University  New Delhi, India\
 > **2001 -- 2004**\
 > *●* Passed from prestigious Delhi university in regular duration\
-> **GNIIT (National Institute of IT)** \| **NIIT (National Institute of
-> IT)** \| New Delhi, India\
+> **GNIIT (National Institute of IT)**  **NIIT (National Institute of
+> IT)**  New Delhi, India\
 > **2001 -- 2004**\
 > ● **Achieved an impressive score of 80% across 8 semesters. This
 > degree coupled with my Commerce** **Bachelor\'s degree was identified
